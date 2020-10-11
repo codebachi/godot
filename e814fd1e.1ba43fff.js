@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[25],{79:function(p){p.exports=JSON.parse('{"allTagsPath":"/godot/blog/tags","slug":"cpp","name":"cpp","count":1,"permalink":"/godot/blog/tags/cpp"}')}}]);
