@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[23],{77:function(o){o.exports=JSON.parse('{"allTagsPath":"/godot/blog/tags","slug":"enum","name":"enum","count":1,"permalink":"/godot/blog/tags/enum"}')}}]);
