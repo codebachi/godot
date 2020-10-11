@@ -1,0 +1,20 @@
+module.exports = {
+  someSidebar: 
+  {
+    셰이더: 
+    [
+      'doc1', 
+      'doc2', 
+      'doc3', 
+      'doc4'
+    ],
+    SDL2: 
+    [
+      'sdl'
+    ],
+    Features: 
+    [
+      'mdx'
+    ],
+  },
+};
