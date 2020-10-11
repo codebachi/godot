@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Godot',
+  title: 'Godot Tutorials',
   tagline: 'The game engine you waited for.',
   url: 'https://codebachi.github.io/godot',
   baseUrl: '/godot/',
